@@ -2,7 +2,7 @@
   "name": "vue-flexible-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Jamter 121978614@qq.com",
+  "author": "dujingya 540186803@qq.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
